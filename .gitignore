@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Sorties générées (eval_sdn_gw.py / lancer.bat eval)
+sdn_gw_eval_results.csv
+plots/*.png
+plots/*.csv
+_smoke_plot.csv
+
+# Secrets
+.env
+*.pem
+commit_msg.txt
