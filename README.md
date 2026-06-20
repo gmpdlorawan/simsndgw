@@ -2,8 +2,7 @@
 
 Simulateur Python pour l’évaluation de **SDN-GW** : sélection stabilisée de la passerelle downlink par score composite (RSSI, SNR, charge, PRR) et hystérésis à double garde (*H*, *Tmin*), module **GW-CM** au serveur réseau.
 
-**Auteurs** — Djièta Ouindé Aboul Fatas BAMOGO, Bernard Armel SANOU, Pasteur PODA  
-Université Nazi BONI, Laboratoire LAMDI, Bobo-Dioulasso, Burkina Faso
+**Auteurs** — Djièta Ouindé Aboul Fatas BAMOGO, Laboratoire LAMDI, Bobo-Dioulasso, Burkina Faso
 
 ---
 
